@@ -262,7 +262,7 @@ Layer:
  #         FROM water_polygons
  #       ) AS ocean
  #   properties:
-      minzoom: 10
+#      minzoom: 10
   - id: landcover-area-symbols
     geometry: polygon
     <<: *extents
